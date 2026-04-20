@@ -1,5 +1,6 @@
 // C++ code
 //
+//Please view in the Code section
 int animationSpeed = 400;
 
 int sensorPin_1 = A0;  #for fan
